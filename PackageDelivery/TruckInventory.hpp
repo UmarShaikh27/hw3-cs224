@@ -2,8 +2,8 @@
 #include <fstream>
 #include <stdio.h>
 #include <stdlib.h>
-#include "node.hpp"
-#include "bst.hpp"
+#include "BinarySearchTree.hpp"
+#include "BSTNode.hpp"
 
 class TruckInventory
 {

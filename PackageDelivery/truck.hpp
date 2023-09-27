@@ -2,9 +2,8 @@
 #include <iostream>
 using namespace std;
 
-class Truck
+struct Truck
 {
-public:
     string driver;
     double petrol;
     string regNo;

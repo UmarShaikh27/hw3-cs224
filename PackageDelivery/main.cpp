@@ -2,7 +2,7 @@
 #include <fstream>
 #include <stdio.h>
 #include <stdlib.h>
-#include "truck_inventory.hpp"
+#include "TruckInventory.hpp"
 
 int main()
 {

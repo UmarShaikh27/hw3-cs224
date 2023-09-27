@@ -1,6 +1,6 @@
 #pragma once
 #include <fstream>
-#include "node.hpp"
+#include "BSTNode.hpp"
 
 class BinarySearchTree
 {

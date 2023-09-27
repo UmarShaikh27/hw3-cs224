@@ -1,5 +1,5 @@
 #pragma once
-#include "truck.hpp"
+#include "Truck.hpp"
 
 class BSTNode
 {
