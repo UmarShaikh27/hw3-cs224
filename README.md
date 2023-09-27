@@ -1,4 +1,4 @@
-# <span style="color:red"> README is for reading
+# README is for reading
 
 This is a two part assignment. 
 
