@@ -8,7 +8,7 @@ The folder HUMania contains resources for the second part.
 
 Relevant instructions for each part are found in the Assignment03.pdf file as well as instructions in the respective folders.
 
-# For brave cmake users:
+# For cmake users:
 Since there are effectively two different tasks, there is a `CMakeLists.txt` file in each of the two folders namely `HUMania` and `PackageDelivery`. The process is exactly the same for you. To build `PackageDelivery` project:
 - `cd PackageDelivery` (please ensure you are in a directory where this `PackageDelivery` exists)
 - `mkdir build` (creates a build directory inside `PackageDelivery`)
